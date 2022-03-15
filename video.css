@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#navbar img {
+    height: 50px;
+}
+
+#navbar {
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+#nav-middle {
+    width: 60%;
+    margin-top: 6px;
+    margin: auto;
+    margin-left: 350px;
+}
+
+#video {
+    width: 40%;
+    padding: 6px;
+}
+
+
+#searchbtn{
+    padding: 6px;
+}
+
+#nav-right {
+    width: 20%;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#nav-right>div {
+    margin-top: 15px;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+h1 {
+    margin-top: 6px;
+    font-family: sans-serif;
+}
+
+
+
+#main {
+    display: flex;
+    height: 500px;
+    gap: 50px;
+    border: 1px solid none;
+    flex-wrap: wrap;
+}
+
+#video_details {
+    flex: 3;
+    padding-left: 50px;
+}
+
+#recommendation {
+    display: grid;
+    /* border-left: 1px solid black; */
+    flex: 1;
+    margin-top: 15px;
+    background-color: white;
+
+}
+
+#rec_div{
+    display: flex;
+    margin: 1%;
+    gap: 20px;
+}
+#rec_div > img{
+    width: 40%;
+    height: 100%;
+}
+
+#rec_div > title{
+    width: 30%;
+    font-size: 15px;
+    font-family: sans-serif;
+    overflow: hidden;
+
+}
+ 
+#all{
+    /* width: 15%; */
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+#all:hover{
+    background-color: red;
+    color: white;
+}
+
+#popular{
+    /* width: 15%; */
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin-left: 5px;
+    border: 1px solid white;
+}
+
+#popular:hover{
+    background-color: red;
+    color: white;
+    /* border: 1px solid white; */
+}
+#trending{
+    /* width: 15%; */
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin-left: 2px; 
+    border: 1px solid white;
+}
+
+#trending:hover{
+    background-color: red;
+    color: white;
+}
+
+#recent{
+    /* width: 15%; */
+    padding: 5px 5px;
+    border-radius: 10px;
+    margin-left: 5px;
+    border: 1px solid white;
+}
+
+#recent:hover{
+    background-color: red;
+    color: white;
+}
+
+#all_bt{
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+}
