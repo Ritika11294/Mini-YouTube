@@ -1,10 +1,6 @@
 # Mini-YouTube
 It's a mini YouTube clone.
 
-## About YouTube
-Our mission is to give everyone a voice and show them the world.
-We believe that everyone deserves to have a voice, and that the world is a better place when we listen, share and build community through our stories.
-
 ## Technologies we used:
 <ul>
   <li>HTML</li>
