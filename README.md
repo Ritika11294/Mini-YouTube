@@ -19,4 +19,4 @@ Check the hosted website [here](https://youtube-clone-111.netlify.app/)
 ## Glimpse of website:
 ![](https://user-images.githubusercontent.com/87424668/159947954-f91c3afa-cda2-47e1-ac29-b4b3c1e4c364.png)
 
-![](https://user-images.githubusercontent.com/87424668/159947988-414a3439-e96e-4cb8-8195-2ef9ba6844fd.png)
+![](https://user-images.githubusercontent.com/87424668/159949709-3f53def9-d94f-46f8-94b5-657dec66b083.png)
